@@ -1,0 +1,6 @@
+device_name,ip_address,role,zone
+Core-SW-01,192.168.1.1,Core,DC
+Access-SW-02,192.168.1.2,Access,Floor-1
+FW-01,192.168.2.1,Firewall,DMZ
+Access-SW-04,192.168.1.4,Access,Floor-3
+Router-01,192.168.10.1,Gateway,Edge
